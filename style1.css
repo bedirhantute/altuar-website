@@ -1,0 +1,84 @@
+body{
+    font-family: 'Source Sans Pro', sans-serif;
+    font-family: 'Teko', sans-serif;
+    font-family: 'Zen Loop', cursive;
+
+}
+#logo-size {
+    width: 115px;
+    height: 60px;
+}
+#logo-words{
+    display:absolute;
+    vertical-align:middle;
+}
+
+#header {
+    position: fixed;
+    top: 0px;
+    left: 0px;
+    right: 0px;
+}
+
+#atla {
+    margin-top: 90px;
+}
+
+#w-size {
+    width: 300px;
+    height: auto;
+}
+
+.bigfont {
+    font-size: larger;
+    font-weight: 500;
+    font-family: cursive;
+}
+
+.div-bg {
+    height: 200px;
+    width: 150px;
+}
+.newPass{
+    position: relative;
+}
+.form-control{
+    width: 100%;
+    border: 1px solid #ccc;
+    padding: 10px 100px 10px 20px;
+    line-height: 1;
+    box-sizing: border-box;
+    outline: none;
+}
+.custom-button{
+    width: 50px;
+    position: absolute;
+    right: 3px;
+    top: 3px;
+    bottom: 3px;
+    border: 0;
+    border-radius: 20px;
+    background-color: #fff;
+    color: rgb(0, 0, 0);
+    outline: none;
+    margin: 0;
+    padding: 0 10px;
+    z-index: 2;
+
+}
+i{
+    position: absolute;
+    top: 35%;
+    left: 90%;
+}
+.div-bg {
+    height: 200px;
+    width: 150px;
+}
+form i {
+    margin-left: -30px;
+    cursor: pointer;
+}
+#divswhite video{
+    width: 25%;
+}
